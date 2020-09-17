@@ -20,6 +20,6 @@ KS test and T-test Result on Rental Subsidy Rates Across Different PHAs
 ![](https://github.com/JennyYu2017/Hypothesis-Test-and-Correlation-Analysis-Rental-Subsidy-Rate-across-PHC-in-BC/blob/master/Plots/Figure%201.png)
 
 
-Correlation between Result on Rental Subsidy Rate and other factors
+Correlation between Result on Rental Subsidy Rate and Other Factors
 
 ![](https://github.com/JennyYu2017/Hypothesis-Test-and-Correlation-Analysis-Rental-Subsidy-Rate-across-PHC-in-BC/blob/master/Plots/Figure%203.png)
