@@ -1,4 +1,4 @@
-# Hypothesis-Test-Rental-Subsidy-Rate-across-PHC-in-BC
+# Hypothesis Test and Correlation Analysis: Rental-Subsidy-Rate-across-PHC-in-BC
 
 The lack of affordable housing is a major challenge faced by British Columbians. 
 
