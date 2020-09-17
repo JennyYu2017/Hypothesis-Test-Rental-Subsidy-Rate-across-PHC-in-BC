@@ -10,10 +10,10 @@ ii. Are the rental subsidization rates correlated to socioeconomic factors?
 
 # Results:
 
-![](https://github.com/JennyYu2017/Feature-Selection-and-Machine-Learning---House-Price-Prediction/blob/master/Plots/Accuracy%20Score%20vs.%20Numbr%20of%20Features%20Selected.png)
+![](https://github.com/JennyYu2017/Hypothesis-Test-and-Correlation-Analysis-Rental-Subsidy-Rate-across-PHC-in-BC/blob/master/Plots/Figure%201.png)
 
 
-![](https://github.com/JennyYu2017/Feature-Selection-and-Machine-Learning---House-Price-Prediction/blob/master/Plots/Accuracy%20Score%20vs.%20Numbr%20of%20Features%20Selected.png)
+![](https://github.com/JennyYu2017/Hypothesis-Test-and-Correlation-Analysis-Rental-Subsidy-Rate-across-PHC-in-BC/blob/master/Plots/Figure%202.png)
 
 
-![](https://github.com/JennyYu2017/Feature-Selection-and-Machine-Learning---House-Price-Prediction/blob/master/Plots/Accuracy%20Score%20vs.%20Numbr%20of%20Features%20Selected.png)
+![](https://github.com/JennyYu2017/Hypothesis-Test-and-Correlation-Analysis-Rental-Subsidy-Rate-across-PHC-in-BC/blob/master/Plots/Figure%203.png)
